@@ -32,7 +32,7 @@ If you just want the plan that fits how you work, [use the finder](https://techu
 
 ## How fresh it is
 
-Prices and limits move every month. The catalog is re-checked against vendor pages monthly, and this repo is updated with it. Every row carries its own `verified_date`, so check the vendor page before you pay. Local taxes and regional prices can differ from the US dollar figures here.
+Prices and limits move every month. We run a price check against vendor pages each month and update this repo after it. Not every row is re-checked every month, so each one carries its own `verified_date`. Check the vendor page before you pay. Local taxes and regional prices can differ from the US dollar figures here.
 
 Found a price that's wrong? Open an issue with the vendor link.
 
