@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-15",
-  "plan_count": 228,
+  "plan_count": 227,
   "plans": [
     {
       "tool": "Abacus.AI",
@@ -554,7 +554,8 @@
       "categories": [
         "code",
         "chat",
-        "agent"
+        "agent",
+        "image"
       ],
       "surfaces": [
         "chat",
@@ -581,7 +582,8 @@
       "categories": [
         "code",
         "chat",
-        "agent"
+        "agent",
+        "image"
       ],
       "surfaces": [
         "chat",
@@ -644,7 +646,8 @@
         "always-on",
         "chat",
         "code",
-        "agent"
+        "agent",
+        "image"
       ],
       "surfaces": [
         "multi",
@@ -706,7 +709,8 @@
       "categories": [
         "code",
         "chat",
-        "agent"
+        "agent",
+        "image"
       ],
       "surfaces": [
         "chat",
@@ -738,7 +742,8 @@
       "categories": [
         "code",
         "chat",
-        "agent"
+        "agent",
+        "image"
       ],
       "surfaces": [
         "chat",
@@ -1716,29 +1721,8 @@
     },
     {
       "tool": "Elicit",
-      "plan": "Plus",
-      "price_monthly_usd": 11,
-      "seat_type": "individual",
-      "categories": [
-        "academic"
-      ],
-      "surfaces": [
-        "web-app"
-      ],
-      "included_volume": "Unlimited search across more than 500 thousand clinical trials",
-      "session_cap": null,
-      "weekly_cap": null,
-      "overage_behavior": "hard-cap",
-      "model_tier": null,
-      "models": [],
-      "confidence": "official",
-      "verified_date": "2026-10-08",
-      "pricing_url": "https://elicit.com/pricing"
-    },
-    {
-      "tool": "Elicit",
       "plan": "Pro",
-      "price_monthly_usd": 39,
+      "price_monthly_usd": null,
       "seat_type": "individual",
       "categories": [
         "academic"
@@ -1752,8 +1736,8 @@
       "overage_behavior": "hard-cap",
       "model_tier": null,
       "models": [],
-      "confidence": "official",
-      "verified_date": "2026-10-08",
+      "confidence": "confirm",
+      "verified_date": "2026-11-15",
       "pricing_url": "https://elicit.com/pricing"
     },
     {
@@ -2004,7 +1988,8 @@
         "video",
         "music",
         "aggregate",
-        "chat"
+        "chat",
+        "image"
       ],
       "surfaces": [
         "web-app"
@@ -2035,7 +2020,8 @@
         "music",
         "code",
         "agent",
-        "aggregate"
+        "aggregate",
+        "image"
       ],
       "surfaces": [
         "web-app",
@@ -2066,7 +2052,8 @@
         "music",
         "code",
         "agent",
-        "aggregate"
+        "aggregate",
+        "image"
       ],
       "surfaces": [
         "web-app",

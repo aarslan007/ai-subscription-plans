@@ -1,10 +1,10 @@
 # AI Subscription Plans
 
-Every AI subscription plan in the [Tech Unbloated AI subscription finder](https://techunbloated.com/tools/best-ai-subscription/): 228 plans from 66 tools, with monthly prices checked against each vendor's own pricing page.
+Every AI subscription plan behind Tech Unbloated's [best AI subscription guide](https://techunbloated.com/tools/best-ai-subscription/) and [best AI for coding](https://techunbloated.com/tools/best-coding-plan/): 227 plans from 66 tools, with monthly prices checked against each vendor's own pricing page.
 
 It covers eleven kinds of plan: coding, chat and writing, task agents, always-on agents, image, video, music, voice, design and websites, research, and all-in-one bundles. Only plans you can buy with a normal card are included. Region-locked deals and API pay-as-you-go pricing are left out.
 
-If you just want the plan that fits how you work, [use the finder](https://techunbloated.com/tools/best-ai-subscription/). This repo is for anyone who wants the raw table.
+If you just want to know which plan to buy, [read the guide](https://techunbloated.com/tools/best-ai-subscription/): it picks one for each job, from chat and coding to video and voice. This repo is for anyone who wants the raw table.
 
 ## Files
 
@@ -19,7 +19,7 @@ If you just want the plan that fits how you work, [use the finder](https://techu
 | `plan` | Plan name as the vendor sells it |
 | `price_monthly_usd` | Published monthly price in US dollars when billed monthly. Blank means the price could not be confirmed |
 | `seat_type` | `individual` or `business` |
-| `categories` | Which finder tracks the plan appears in: `code`, `chat`, `agent`, `always-on`, `image`, `video`, `music`, `voice`, `design`, `academic` (research), `aggregate` (all-in-one) |
+| `categories` | Which uses the plan covers: `code`, `chat`, `agent`, `always-on`, `image`, `video`, `music`, `voice`, `design`, `academic` (research), `aggregate` (all-in-one) |
 | `surfaces` | Where you use it, such as `web-app`, `chat`, `ide-extension`, `terminal-agent`, `mobile-app`, `plugin` |
 | `included_volume` | What the plan includes, in the vendor's own units (credits, messages, requests, or minutes) |
 | `session_cap`, `weekly_cap` | Short-window and weekly limits, where the vendor publishes them |
